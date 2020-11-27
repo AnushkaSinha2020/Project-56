@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+    border-style: dotted;
+    border-width: 4px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#date {
+    font-size: 20px;
+    border-style: double;
+}
